@@ -1,6 +1,4 @@
-I’m a full-stack product engineer based in Warsaw. Previously at Kalepa and Appfire.
-
-I build web applications and backend services with React, Angular, TypeScript, Python and PostgreSQL.
+I’m a full-stack product engineer. Previously at Kalepa and Appfire.
 
 ## Selected projects
 
@@ -11,6 +9,6 @@ I build web applications and backend services with React, Angular, TypeScript, P
 
 ## Also building: Indala
 
-A pre-launch mobile dream journal with AI-assisted reflection, connections to earlier entries and an interactive visualization of recurring symbols. I own engineering, AI architecture, deployment and release operations; my product-design collaborator owns the vision, UX and visual design.
+A pre-launch mobile dream journal with AI-assisted reflection, connections to earlier entries and an interactive visualization of recurring symbols. I own engineering, AI architecture and release operations; my collaborator owns product vision, UX and visual design.
 
 Built with React Native/Expo, Python/FastAPI, PostgreSQL and third-party AI APIs. Source is private.
