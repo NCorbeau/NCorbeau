@@ -1,5 +1,3 @@
-# Maciej Głownia
-
 I’m a full-stack product engineer based in Warsaw. Previously at Kalepa and Appfire.
 
 I build web applications and backend services with React, Angular, TypeScript, Python and PostgreSQL.
